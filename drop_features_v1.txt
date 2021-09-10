@@ -1,0 +1,69 @@
+
+<div id="flowchartFrame">
+<table cellspacing="0" id="flowchartTable" class="">
+<tbody><tr>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div></td><td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative; width: 120px;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div></td>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div><table class="frame" id="s1" border="1" draggable="true" ondragstart="drag(event)"><tbody><tr height="*"><td colspan="3"></td></tr><tr height="0%"><td width="50%"></td><td><div class="oval start down" contenteditable="true">Start</div></td><td width="50%"></td></tr><tr height="*"><td colspan="3"></td></tr></tbody></table></td>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div></td>
+
+
+
+
+</tr>  
+<tr>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div></td><td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative; width: 120px;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div></td>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div><table class="frame" id="io897358" draggable="true" ondragstart="drag(event)"><tbody><tr height="*"><td rowspan="3" width="50%"></td><td></td><td width="50%" rowspan="3"></td></tr><tr height="0%"><td><div class="parallelogram down" contenteditable="true">Calculate the<br>Bivariate Correlations.<br></div></td></tr><tr height="*"><td></td></tr></tbody></table></td>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div><div id="a897510" draggable="true" ondragstart="drag(event)" class="arrowW arrowWleft wpr"><div class="arrowWrapper left"><div class="labelB" contenteditable="true">Try<br>again<br></div><div class="label" contenteditable="true"></div><div class="arrowTopLeft" contenteditable="true"></div><div class="labelL" contenteditable="true"></div></div></div></td>
+
+
+
+
+</tr>  
+<tr>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div><table class="frame" id="s897647" draggable="true" ondragstart="drag(event)"><tbody><tr height="*"><td rowspan="3" width="50%"></td><td></td><td width="50%" rowspan="3"></td></tr><tr height="0%"><td><div class="oval" contenteditable="true">End</div></td></tr><tr height="*"><td></td></tr></tbody></table></td><td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative; width: 120px;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div><div id="a897596" draggable="true" ondragstart="drag(event)" class="arrowW arrowWleft"><div class="arrowWrapper left"><div class="arrowHorizontalT" contenteditable="true"></div><div class="arrowHorizontalB" contenteditable="true">NO</div></div></div></td>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div><table class="frame" id="d897372" draggable="true" ondragstart="drag(event)"><tbody><tr height="*"><td rowspan="3" width="50%"><div id="a897629" draggable="true" ondragstart="drag(event)" class="arrowW arrowW"><div class="arrowWrapper "><div class="arrowHorizontalT" contenteditable="true"></div><div class="arrowHorizontalB" contenteditable="true"></div></div></div></td><td></td><td width="50%" rowspan="3"></td></tr><tr height="0%"><td><div class="diamond"><div class="inside" contenteditable="true"><mark><br>WHILE<br>There exists a<br>correlation<br>&gt; 80%<br><br></mark></div></div></td></tr><tr height="*"><td></td></tr></tbody></table></td>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div><div id="a897465" draggable="true" ondragstart="drag(event)" class="arrowW arrowW"><div class="arrowWrapper "><div class="arrowVerticalL" contenteditable="true"></div><div class="arrowVerticalR" contenteditable="true"></div></div></div></td>
+
+
+
+
+</tr><tr>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative; width: 120px;"></td><td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative; width: 120px;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div></td>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative; width: 120px;"><div id="a897608" draggable="true" ondragstart="drag(event)" class="arrowW arrowWdown"><div class="arrowWrapper down"><div class="arrowVerticalL" contenteditable="true">YES</div><div class="arrowVerticalR" contenteditable="true"></div></div></div></td>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative; width: 120px;"><div id="a897650" draggable="true" ondragstart="drag(event)" class="arrowW arrowW"><div class="arrowWrapper "><div class="arrowVerticalL" contenteditable="true"></div><div class="arrowVerticalR" contenteditable="true"></div></div></div></td>
+
+
+
+
+</tr>  
+<tr>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div></td><td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative; width: 120px;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div></td>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div><table class="frame" id="io897385" draggable="true" ondragstart="drag(event)"><tbody><tr height="*"><td rowspan="3" width="50%"></td><td></td><td width="50%" rowspan="3"></td></tr><tr height="0%"><td><div class="parallelogram down" contenteditable="true">Find all pairs which<br>are highly correlated.<br></div></td></tr><tr height="*"><td></td></tr></tbody></table></td>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div><div id="a897454" draggable="true" ondragstart="drag(event)" class="arrowW arrowW"><div class="arrowWrapper "><div class="arrowVerticalL" contenteditable="true"></div><div class="arrowVerticalR" contenteditable="true"></div></div></div></td>
+
+
+
+
+</tr>  
+<tr>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative; width: 121px;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div></td><td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative; width: 120px;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div></td>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div><table class="frame" id="io897400" draggable="true" ondragstart="drag(event)"><tbody><tr height="*"><td rowspan="3" width="50%"></td><td></td><td width="50%" rowspan="3"></td></tr><tr height="0%"><td><div class="parallelogram down" contenteditable="true">For every pair, identify<br>the lesser significant<br>feature and add it to<br>the droppable list.<br></div></td></tr><tr height="*"><td></td></tr></tbody></table></td>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div><div id="a897443" draggable="true" ondragstart="drag(event)" class="arrowW arrowW"><div class="arrowWrapper "><div class="arrowVerticalL" contenteditable="true"></div><div class="arrowVerticalR" contenteditable="true"></div></div></div></td>
+
+
+
+
+</tr>  
+<tr>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div></td><td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative; width: 120px;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div></td>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div><table class="frame" id="io897408" draggable="true" ondragstart="drag(event)"><tbody><tr height="*"><td rowspan="3" width="50%"></td><td></td><td width="50%" rowspan="3"></td></tr><tr height="0%"><td><div class="parallelogram right" contenteditable="true">From the droppable<br>list, drop the least<br>significant feature.<br></div></td></tr><tr height="*"><td></td></tr></tbody></table></td>
+<td ondrop="drop(event)" ondragover="allowDrop(event)" style="position: relative;"><div class="noselect" style="top: 0px; right: 0px; bottom: 0px; width: 5px; position: absolute; cursor: col-resize;">&nbsp;</div><div id="a897435" draggable="true" ondragstart="drag(event)" class="arrowW "><div class="arrowWrapper "><div class="arrowBottomLeft" contenteditable="true"></div><div class="labelL" contenteditable="true"></div><div class="labelT" contenteditable="true"></div><div class="label" contenteditable="true"></div></div></div></td>
+
+
+
+
+</tr>  
+  
+   
+</tbody></table>
+</div>
