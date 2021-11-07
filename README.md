@@ -1,13 +1,5 @@
 # Fantasy Premier League Points Predictor
 
-(PHOTO
-...
-
-
-
-
-...)
-
 A Fantasy Premier League (FPL) points prediction tool to help players make better data driven decisions. This project demonstrates how such a tool could be developed and, more importantly, be improved in the future.
 
 <img src="https://s10.gifyu.com/images/tool_demo.gif" class="centerImage" height="500" width="550">
