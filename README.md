@@ -18,7 +18,7 @@ A Fantasy Premier League (FPL) points prediction tool to help players make bette
 
 ...)
 
-Suppose you're looking for a budget Forward in the £5.0m-£6.5m price range to improve your team, but you're not sure where to begin. Using the tool created, you can obtain quick, reliable point projections of all the players which meet the criteria. 
+Suppose you're looking for a budget Forward in the £5.0m-£6.5m price range to improve your team, but you're not sure where to begin. Using the tool created, you can obtain quick, reliable point projections to help make your decision. 
 
 Check out the [tool](https://public.tableau.com/app/profile/samuel.harrison2532/viz/FPLPointPredictions/Dashboard) yourself.
 
