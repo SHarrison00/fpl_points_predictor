@@ -20,6 +20,4 @@ Learn how the model was chosen by looking at the [simulation analysis](https://p
 
 # Table of contents
 
-
-
-
+To be added soon (I'm currently studying at University).
