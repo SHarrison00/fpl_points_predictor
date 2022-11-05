@@ -1,4 +1,4 @@
-# Fantasy Premier League Points Predictor
+# Fantasy Premier League Points Predicton
 
 A Fantasy Premier League (FPL) points prediction tool to help FPL managers make better data driven decisions. This project demonstrates how such a tool could be developed and, more importantly, improved in the future.
 
@@ -22,6 +22,6 @@ Therefore, people who play Fantasy Football benefit from forecasts about which p
 
 ### What was the purpose of the project?
 
-I completed this project during my university placement year (2021), outside of office hours. On placement, I worked as a Data Analyst, where I predominantly worked on a on large clustering project, which was the first ever data science project I worked on. I loved how much I was learning at work; however, I still felt that I was only scratching the surface of data science. **To learn more about data science**, therefore, I decided to start my own project, namely the Fantasy Football Points Prediction project. 
+I completed this project during my university placement year (2021), outside of office hours. On placement, I worked as a Data Analyst, where I predominantly worked on a on large clustering data science project. I loved how much I was learning at work. However, I still felt that I was only scratching the surface of data science. **To learn more about data science**, therefore, I decided to start my own project, namely the Fantasy Premier League Points Prediction project. 
 
 I can confidently say that I learned so much from designing and running my own personal project. I won’t write a list, but today I still regularly find myself benefitting from the things I learned during the Fantasy Football project. In that sense, because of what I learned during the project, the project was a success. 
