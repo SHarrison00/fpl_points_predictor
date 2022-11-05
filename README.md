@@ -16,7 +16,7 @@ Learn how the model was chosen by looking at the [simulation analysis](https://p
 
 Fantasy Football is a game, which is closely related to actual Football.  
 
-In a nutshell, you buy players - which correspond to real professional Footballers – who score points. The objective is for you to **maximise the number of points** your team has, by the end of the season. Players and points correspond to what happens in professional Football (in particular, the Premier League). 
+In a nutshell, you buy players - which correspond to real professional Footballers – who score points. The objective is for you to **maximise the number of points** your team has, by the end of the season. Players and points both correspond to what happens in professional Football.
 
 Therefore, people who play Fantasy Football benefit from forecasts about which players are going to score points. 
 
