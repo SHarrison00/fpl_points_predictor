@@ -2,7 +2,7 @@
 
 A Fantasy Premier League (FPL) points prediction tool to help FPL managers make better data driven decisions. This project demonstrates how such a tool could be developed and, more importantly, improved in the future.
 
-<img src="https://s10.gifyu.com/images/tool_demo.gif" class="centerImage" height="500" width="550">
+<img src="https://s1.gifyu.com/images/tool_demo.gif" class="centerImage" height="500" width="550">
 
 Suppose you're looking for a budget Forward in the £5.0m-£6.5m price range to improve your team, but you're not sure where to begin. Using the tool created, you can obtain quick, reliable point projections to help make your decision. 
 
