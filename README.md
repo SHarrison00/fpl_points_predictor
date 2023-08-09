@@ -20,6 +20,4 @@ In a nutshell, you buy players for your team - which correspond to real professi
 
 ### What was the purpose of the project?
 
-During my university placement year in 2021, I took on a role as a Data Analyst. While the experience was invaluable, I believed there was much more to explore in the realm of data science. This curiosity led me to embark on this side project. Working on this personal project was a transformative experience. The skills and insights I acquired have significantly shaped my professional approach and techniques.
-
 In 2021, during my university placement year, I began my data science journey in the role of a Data Analyst. This experience inspired me to start this side project, one of my first deep dives into the space. From this project, I gained invaluable lessons that have since influenced my approach and understanding in the field.
